@@ -31,6 +31,11 @@ Crear un tablero interactivo en Power BI que analice patrones de movilidad urban
 </ol>
 
 ## Introducción
+La movilidad urbana es un componente clave en el desarrollo de las ciudades modernas, y su análisis permite entender las dinámicas de transporte que afectan la calidad de vida, la sostenibilidad ambiental y la eficiencia económica. En un mundo donde las ciudades están experimentando un crecimiento exponencial, comprender los patrones de uso del transporte y su impacto en el medio ambiente se ha vuelto fundamental para la toma de decisiones informadas.
+
+Este proyecto tiene como objetivo proporcionar un análisis detallado de los patrones de movilidad urbana, evaluando tanto el transporte público como privado, y explorando su relación con la emisión de gases de efecto invernadero (CO2). A través de un análisis de datos exhaustivo y el uso de herramientas como SQL, Python y Power BI, se busca identificar tendencias, correlaciones y posibles áreas de mejora en la infraestructura de transporte y políticas públicas.
+
+Los datos utilizados provienen de diversas fuentes, incluyendo registros de transporte público, emisiones de CO2 y factores demográficos y económicos. La integración de estos datos permitirá ofrecer recomendaciones basadas en evidencia que puedan contribuir a la creación de ciudades más sostenibles y eficientes en términos de transport
 
 ## Descripción
 
