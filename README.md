@@ -48,3 +48,15 @@ Los datos utilizados provienen de diversas fuentes, incluyendo registros de tran
 ## Autores
 
 ## Licencia
+
+Este proyecto está licenciado bajo la [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Copyright (c) 2024, Nicolas Rene Hoyos Arizaga
+
+Se concede permiso, de manera gratuita, para copiar, distribuir, mostrar y ejecutar públicamente el trabajo, con la condición de que se otorgue el crédito apropiado al autor original, de acuerdo con los términos especificados por el autor o el licenciante.
+
+El trabajo no podrá ser modificado de ninguna manera sin el consentimiento del autor.
+
+No hay ninguna garantía sobre el trabajo, ni expresa ni implícita, y en ningún caso los autores o titulares del copyright serán responsables de cualquier daño que surja del uso de este trabajo.
+
+
