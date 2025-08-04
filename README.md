@@ -1,62 +1,61 @@
-# Análisis Integral de la Movilidad Urbana y su Impacto Ambiental
+# Comprehensive Analysis of Urban Mobility and Its Environmental Impact
 
-## Tabla de contenido
-1. [Objetivo General](#Objetivo-General)
-2. [Definición de Objetivos Específicos](#Definición-de-Objetivos-Específicos)
-3. [Introducción](#Introducción)
-4. [Descripción](#Descripción)
+## Table of Contents
+1. [General Objective](#General-Objective)
+2. [Specific Objectives](#Specific-Objectives)
+3. [Introduction](#Introduction)
+4. [Description](#Description)
 5. [KPI](#KPI)
-6. [Analisis de datos](#Analisis-de-datos)
-7. [Contribución y Colaboración](#Contribución-y-Colaboración)
-8. [Autores](#Autores)
-9. [Licencia](#Licencia)
+6. [Data Analysis](#Data-Analysis)
+7. [Contribution and Collaboration](#Contribution-and-Collaboration)
+8. [Authors](#Authors)
+9. [License](#License)
 
-## Objetivo General
-Crear un tablero interactivo en Power BI que analice patrones de movilidad urbana, su impacto ambiental y la correlación con factores económicos y demográficos. El proyecto integra datos geoespaciales, históricos y estadísticos para ofrecer insights clave a tomadores de decisiones en temas de transporte y sostenibilidad.
+## General Objective
+Create an interactive Power BI dashboard to analyze urban mobility patterns, their environmental impact, and the correlation with economic and demographic factors. The project integrates geospatial, historical, and statistical data to provide key insights for decision-makers in transportation and sustainability.
 
-## Definición de Objetivos Específicos
+## Specific Objectives
 <ol>
   <ul>
-    <li>Identificar patrones de uso de transporte público y privado.</li>
+    <li>Identify patterns in the use of public and private transportation.</li>
   </ul>
   <ul>
-    <li>Analizar la relación entre emisiones de CO2, uso de transporte y densidad poblacional.</li>
+    <li>Analyze the relationship between CO2 emissions, transportation usage, and population density.</li>
   </ul>
   <ul>
-    <li>Evaluar el impacto de políticas de movilidad en diferentes ciudades.</li>
+    <li>Evaluate the impact of mobility policies in different cities.</li>
   </ul>
   <ul>
-    <li>Proponer recomendaciones basadas en los datos.</li>
+    <li>Propose data-driven recommendations.</li>
   </ul>
 </ol>
 
-## Introducción
-La movilidad urbana es un componente clave en el desarrollo de las ciudades modernas, y su análisis permite entender las dinámicas de transporte que afectan la calidad de vida, la sostenibilidad ambiental y la eficiencia económica. En un mundo donde las ciudades están experimentando un crecimiento exponencial, comprender los patrones de uso del transporte y su impacto en el medio ambiente se ha vuelto fundamental para la toma de decisiones informadas.
+## Introduction
+Urban mobility is a key component in the development of modern cities, and its analysis helps to understand transportation dynamics that affect quality of life, environmental sustainability, and economic efficiency. In a world where cities are experiencing exponential growth, understanding transportation usage patterns and their environmental impact has become essential for informed decision-making.
 
-Este proyecto tiene como objetivo proporcionar un análisis detallado de los patrones de movilidad urbana, evaluando tanto el transporte público como privado, y explorando su relación con la emisión de gases de efecto invernadero (CO2). A través de un análisis de datos exhaustivo y el uso de herramientas como SQL, Python y Power BI, se busca identificar tendencias, correlaciones y posibles áreas de mejora en la infraestructura de transporte y políticas públicas.
+This project aims to provide a detailed analysis of urban mobility patterns, evaluating both public and private transportation, and exploring their relationship with greenhouse gas (CO2) emissions. Through comprehensive data analysis and the use of tools such as SQL, Python, and Power BI, the goal is to identify trends, correlations, and potential areas for improvement in transportation infrastructure and public policies.
 
-Los datos utilizados provienen de diversas fuentes, incluyendo registros de transporte público, emisiones de CO2 y factores demográficos y económicos. La integración de estos datos permitirá ofrecer recomendaciones basadas en evidencia que puedan contribuir a la creación de ciudades más sostenibles y eficientes en términos de transport
+The data used comes from various sources, including public transportation records, CO2 emissions, and demographic and economic factors. Integrating these datasets will allow for evidence-based recommendations that can contribute to the creation of more sustainable and efficient cities.
 
-## Descripción
+## Description
 
 ## KPI
 
-## Analisis de datos
+## Data Analysis
 
-## Contribución y Colaboración
+## Contribution and Collaboration
 
-## Autores
+## Authors
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright (c) 2024, Nicolas Rene Hoyos Arizaga
 
-Se concede permiso, de manera gratuita, para copiar, distribuir, mostrar y ejecutar públicamente el trabajo, con la condición de que se otorgue el crédito apropiado al autor original, de acuerdo con los términos especificados por el autor o el licenciante.
+Permission is granted, free of charge, to copy, distribute, display, and publicly perform the work, provided that appropriate credit is given to the original author, in accordance with the terms specified by the author or licensor.
 
-El trabajo no podrá ser modificado de ninguna manera sin el consentimiento del autor.
+The work may not be modified in any way without the author's consent.
 
-No hay ninguna garantía sobre el trabajo, ni expresa ni implícita, y en ningún caso los autores o titulares del copyright serán responsables de cualquier daño que surja del uso de este trabajo.
-
+There is no warranty for the work, neither express nor implied, and in no event shall the authors or copyright holders be liable for any damages arising from the use
 
